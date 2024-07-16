@@ -1,0 +1,4 @@
+name: ForceSocalDistancing
+version: '1.0'
+main: com.itdognorights.forcesocialdistancing.ForceSocalDistancing
+api-version: '1.20'
